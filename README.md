@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h4 align="left">👩‍💻  About Me <br>I am a front-end web developer</h4>
 
 ###
 
@@ -64,8 +64,9 @@
 
 ###
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuj424&hide_border=true&layout=compact" align="center" /></div>  
+<h3 align="left">🔥   My Stats :
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuj424&hide_border=true&layout=compact" align="center" /></div>
+</h3>
 
 ###
 
