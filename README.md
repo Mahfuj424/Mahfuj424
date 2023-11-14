@@ -64,7 +64,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuj424&hide_border=true&layout=compact" align="center" /></div>  
 
 ###
 
