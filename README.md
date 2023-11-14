@@ -36,7 +36,7 @@ I am always eager to learn and explore new technologies. Currently, I am diving 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile][(Link to LinkedIn)](https://www.linkedin.com/in/mahfuj-alam-b74313280/)
+- LinkedIn: (Link to LinkedIn)](https://www.linkedin.com/in/mahfuj-alam-b74313280/)
 - Portfolio: [Your Portfolio Website](Link to Portfolio)
 - Twitter: [@YourTwitterHandle](Link to Twitter)
 
