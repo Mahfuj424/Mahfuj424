@@ -32,6 +32,27 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
+
+#### Contact Info
+
+
+<a href="mailto:mahfujahmad424@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://mahfujdev-portfolio.netlify.app/">
+   <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/mahfuj-alam-b74313280/">
+       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+ <a href="https://web.facebook.com/profile.php?id=100048917382639">
+       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>    
+
+<br  />
+
+
+
 > Tools, languages, and other things that I like to work with.
 
 <table>
