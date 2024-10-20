@@ -34,92 +34,92 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<div class="flex flex-wrap justify-center">
-  <div class="text-center w-24">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
     </a>
     <br>VsCode
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="firebase" />
     </a>
-    <br>FireBase
+    <br>Firebase
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
     </a>
     <br>Bootstrap
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="tailwind" />
     </a>
     <br>Tailwind
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
     </a>
     <br>CSS3
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
     </a>
     <br>Figma
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
     </a>
     <br>Git
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5" />
     </a>
     <br>HTML5
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
     </a>
     <br>Javascript
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="Typescript" />
     </a>
     <br>Typescript
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
-      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" alt="Next.js" />
+      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" alt="next.js" />
     </a>
     <br>Next.js
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
-      <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" width="48" height="48" alt="Redux" />
+      <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" width="48" height="48" alt="redux" />
     </a>
     <br>Redux
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react" />
     </a>
     <br>React
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
     </a>
-    <br>MongoDB
+    <br>Mongodb
   </div>
-  <div class="text-center w-24">
+  <div style="width: 96px; text-align: center; margin: 10px;">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="node.js" />
     </a>
