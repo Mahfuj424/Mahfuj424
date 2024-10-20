@@ -31,7 +31,7 @@
 ###
 
 
-
+#### Contact Info
 <a href="mailto:mahfujahmad424@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
@@ -52,10 +52,6 @@
 
 
 <h3 align="left">🛠 Language and tools</h3>
-
-
-#### Contact Info
-
 > Tools, languages, and other things that I like to work with.
 
 <table>
