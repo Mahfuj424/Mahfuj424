@@ -62,11 +62,23 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuj424&hide_border=true&layout=compact" align="center" /></div>
-</h3>
+## :chart_with_upwards_trend: Current Stats
 
-###
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mahfuj424&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
+
+
+<a> 
+    <a href="https://github.com/mahfuj424"><img alt="Mahfuj Alam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahfuj424&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mahfuj424"><img alt="Mahfuj Alam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahfuj424&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Mahfuj Alam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahfuj424&custom_title=Mahfuj-Alam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
