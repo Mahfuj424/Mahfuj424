@@ -34,106 +34,99 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
-      </a>
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="firebase" />
-      </a>
-      <br>FireBase
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" alt="next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" width="48" height="48" alt="redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
-      </a>
-      <br>Mongodb
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-  </tr>
-</table>
+<div class="flex flex-wrap justify-center">
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+    </a>
+    <span>VsCode</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="firebase" />
+    </a>
+    <span>FireBase</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+    </a>
+    <span>Bootstrap</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="tailwind" />
+    </a>
+    <span>Tailwind</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+    </a>
+    <span>CSS3</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+    </a>
+    <span>Figma</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    </a>
+    <span>Git</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5" />
+    </a>
+    <span>HTML5</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+    </a>
+    <span>Javascript</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="Typescript" />
+    </a>
+    <span>Typescript</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" alt="Next.js" />
+    </a>
+    <span>Next.js</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" width="48" height="48" alt="Redux" />
+    </a>
+    <span>Redux</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    </a>
+    <span>React</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    </a>
+    <span>MongoDB</span>
+  </div>
+  <div class="flex flex-col items-center m-4">
+    <a href="#macropower-tech">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    </a>
+    <span>Node.js</span>
+  </div>
+</div>
+
 
 
 
