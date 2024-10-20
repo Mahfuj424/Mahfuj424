@@ -30,10 +30,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-
-#### Contact Info
 
 
 <a href="mailto:mahfujahmad424@gmail.com">
@@ -49,9 +45,16 @@
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>    
 
+
+
 <br  />
 
 
+
+<h3 align="left">🛠 Language and tools</h3>
+
+
+#### Contact Info
 
 > Tools, languages, and other things that I like to work with.
 
