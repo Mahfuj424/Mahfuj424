@@ -34,7 +34,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<div class="flex flex-wrap justify-center">
+<div class="flex justify-center">
   <div class="flex flex-col items-center m-4">
     <a href="#macropower-tech">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
