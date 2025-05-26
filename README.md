@@ -11,13 +11,13 @@ Mahfuj Alam is a skilled front-end web developer with expertise in modern web te
 
 
 #### Contact Info
-<a href="mailto:mahfujahmad424@gmail.com">
+<a href="mailto:mahfujalam5795@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://mahfujdev-portfolio.netlify.app/">
+<a href="https://mahfuj-alam.vercel.app/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/mahfuj-alam-b74313280/">
+ <a href="https://www.linkedin.com/in/mahfujalam1">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
  <a href="https://web.facebook.com/profile.php?id=100048917382639">
